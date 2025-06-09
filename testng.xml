@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Selenide Suite" parallel="tests" thread-count="2">
+  <test name="CrossBrowserTests">
+    <classes>
+      <class name="tests.SampleTest"/>
+    </classes>
+  </test>
+</suite>

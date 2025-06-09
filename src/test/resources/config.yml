@@ -1,0 +1,7 @@
+environment: staging
+browser: chrome
+enableRetry: true
+enableAllure: true
+enableHtmlReport: true
+retryCount: 2
+language: en
